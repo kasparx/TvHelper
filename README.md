@@ -3,13 +3,15 @@ Program to check if you favourite show released an episode this week.
 
 You can enter up to 10 of your favourite shows to this program and it will display the show's Episode list with release dates and episode descriptions. You have to enter the show's only once and it will remember them the next time you run this program. You can update the show's information with just a click of a button!
 
+Note: This program will create a directory C:\TvHelper to store all of it's data.
+
 # Installation
 
 For this program to run properly, you need to install the following:
-1) Python 2.x
-2) Pickle
-3) BeautifulSoup
-4) lxml 
+1. Python 2.x
+2. Pickle - 
+3. BeautifulSoup
+4. lxml 
 
 
 # How to use?
