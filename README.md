@@ -8,6 +8,7 @@ Note: This program will create a directory C:\TvHelper to store all of it's data
 # Installation
 
 For this program to run properly, you need to install the following:
+
 1. Python 2.x
 2. Pickle - 
 3. BeautifulSoup
