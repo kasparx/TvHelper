@@ -3,7 +3,7 @@ Program to check if you favourite show released an episode this week.
 
 You can enter up to 10 of your favourite shows to this program and it will display the show's Episode list with release dates and episode descriptions. You have to enter the show's only once and it will remember them the next time you run this program. You can update the show's information with just a click of a button!
 
-Note: This program will create a directory C:\TvHelper to store all of it's data.
+Note: This program will create a directory C:\TvHelper to store all of it's data.  
 Note: Program tested only on Windows, there might be issues on other operating systems regarding library's used and data directory
 
 # Installation
